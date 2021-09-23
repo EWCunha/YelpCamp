@@ -34,7 +34,7 @@ In the navigation bar, there is also a link to go to the new campground page, wh
 
 On the new campground page, which is available only for singed in users, the user can add a new campground to the database. In order to accomplish that, it required a title, location, price, description and pictures of the campground. The rules for each field are: string for the title, location and description field, a number for the price field, and jpg or png pictures are allowed to be uploaded.
 
-![new campground](Images/New Campground.png)
+![new campground](Images/New_Campground.png)
 
 ## Specific campground
 
@@ -46,7 +46,7 @@ On the a specific campground page, information of that campground are shown (the
 
 On the edit campground page it is possible to edit information about that specific campground. It is accessible only for the user who added the campground. The input rules of each field is the same of the new campground page.
 
-![Edit campground](Images/Edit campground.png)
+![Edit campground](Images/Edit_campground.png)
 
 ## Login
 
