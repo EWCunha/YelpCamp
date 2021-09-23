@@ -28,7 +28,7 @@ On the campgrounds page, one can see all available campgrounds, which are also d
 
 In the navigation bar, there is also a link to go to the new campground page, where is possible to add new campgrounds. This page is available only for the users that have signed in.
 
-![campgund](Images/campgrounds1.png)
+![campgund](Images/Campgrounds.png)
 
 ## New campground
 
