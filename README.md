@@ -6,13 +6,13 @@ If you wish to check out this project, it is deployed in heroku, under the addre
 
 The website has 7 pages, which are:
 
-- Home
-- Campgrounds
-- New campground
-- Specific campground (identified by its ID)
-- Edit campground
-- Login
-- Register
+- [Home](#home)
+- [Campgrounds](#campgrounds)
+- [New campground](#new-campground)
+- [Specific campground (identified by its ID)](#specific-campground)
+- [Edit campground](#edit-campground)
+- [Login](#login)
+- [Register](#register)
 
 In the following sections, a more detailed explanation is given for each of those pages.
 
